@@ -3,6 +3,10 @@
 
 A simple to-do list web app built with **HTML**, **CSS**, and **JavaScript**. This app allows users to add tasks with a due date and delete them once completed.
 
+# live-link
+
+https://ananthsai18.github.io/todo-list/
+
 ## 🚀 Features
 
 - Add tasks with a description and date  
@@ -22,5 +26,5 @@ A simple to-do list web app built with **HTML**, **CSS**, and **JavaScript**. Th
 - CSS3  
 - JavaScript (Vanilla)
 
-## 📂 Project Structure
+
 
